@@ -4,7 +4,7 @@
 -->
 
 <p align="center">
-  <img src="ibrahim.pc.png" alt="Ibrahim sitting at PC" width="160" style="border-radius: 50%; border: 2px solid #2D9C7C;" />
+  <img src="ibrahim.pc.png" alt="Ibrahim sitting at PC" />
 </p>
 
 <p align="center">
