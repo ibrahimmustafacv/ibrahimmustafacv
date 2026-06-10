@@ -4,6 +4,10 @@
 -->
 
 <p align="center">
+  <img src="ibrahim.pc.png" alt="Ibrahim sitting at PC" width="160" style="border-radius: 50%; border: 2px solid #2D9C7C;" />
+</p>
+
+<p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=2D9C7C&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Ibrahim+Mustafa!;Web+Developer+%7C+Data+Analyst;Freelancer+%7C+Problem+Solver" alt="Typing SVG" />
 </p>
 
