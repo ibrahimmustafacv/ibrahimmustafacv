@@ -119,3 +119,27 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=ibrahimmustafacv&label=Profile%20Views&color=2D9C7C&style=flat" alt="Profile views" />
 </p>
+
+
+## 🕹️ My Pac-Man Contribution Graph
+
+<div align="center">
+
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://github.com/ibrahimmustafacv/github-pacman/raw/output/pacman-contribution-graph-dark.svg"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://github.com/ibrahimmustafacv/github-pacman/raw/output/pacman-contribution-graph.svg"
+  />
+  <img
+    alt="Pacman contribution graph"
+    src="https://github.com/ibrahimmustafacv/github-pacman/raw/output/pacman-contribution-graph.svg"
+  />
+</picture>
+
+</div>
+
+---
